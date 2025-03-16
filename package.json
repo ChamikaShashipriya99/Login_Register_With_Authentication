@@ -1,0 +1,31 @@
+{
+  "name": "login_register_with_authentication",
+  "version": "1.0.0",
+  "description": "Craete Login Registration With Email Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChamikaShashipriya99/Login_Register_With_Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChamikaShashipriya99/Login_Register_With_Authentication/issues"
+  },
+  "homepage": "https://github.com/ChamikaShashipriya99/Login_Register_With_Authentication#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mailtrap": "^4.0.0",
+    "mongoose": "^8.12.1"
+  }
+}
