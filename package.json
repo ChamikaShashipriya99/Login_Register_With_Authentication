@@ -27,5 +27,8 @@
     "jsonwebtoken": "^9.0.2",
     "mailtrap": "^4.0.0",
     "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
   }
 }
